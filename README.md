@@ -24,9 +24,10 @@ Project Insight:
 7) New Zealand market has the highest Return on Equity.
 8) USA has the highest Operating Costs. Imperative to implement cost control measures like Outsourcing, Automation, Downsizing Office space, Remote working etc.
 
-#Final Conclusion
- For UK market, it is crucial to reevaluate and optimize sales strategies by incorporating market research and analyzing competitors.
- For USA market, it is imperative to Implement Cost Control measures like remote working, advance payments for dicount procurement, outsourcing, automation and office space downsizing.
- Australia market must look into a liine of credit to cover gaps in cash flow due to payment schedules, and sell of any stagnant assets. like unused equipment, to release small capital and reduce equipment maintenence costs.
+Final Conclusion:
+
+ 1) For UK market, it is crucial to reevaluate and optimize sales strategies by incorporating market research and analyzing competitors.
+ 2)  For USA market, it is imperative to Implement Cost Control measures like remote working, advance payments for dicount procurement, outsourcing, automation and office space downsizing.
+ 3)  Australia market must look into a liine of credit to cover gaps in cash flow due to payment schedules, and sell of any stagnant assets. like unused equipment, to release small capital and reduce equipment maintenence costs.
  
     
