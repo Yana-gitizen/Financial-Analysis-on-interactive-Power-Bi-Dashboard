@@ -7,5 +7,5 @@
 6) What is the Quick Ratio?
 7) What is the ratio of revenue to marketing cost?
 8) Which country has the highest Operating Costs?
-9) Determine the Cash Turnover Days and Inventory Turnover Days
+
     
