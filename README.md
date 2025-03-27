@@ -27,7 +27,7 @@ Project Insight:
 Final Conclusion:
 
  1) For UK market, it is crucial to re-evaluate and optimize sales strategies by incorporating market research and analyzing competitors.
- 2)  For USA market, it is imperative to Implement Cost Control measures like remote working, advance payments for dicount procurement, outsourcing, automation and office space downsizing.
+ 2)  For USA market, it is imperative to implement Cost Control measures like remote working, advance payments for dicount procurement, outsourcing, automation and office space downsizing.
  3)   A reliable accounting team is required in Australia, UK and France. 
  4)  Australia market must look into a liine of credit to cover gaps in cash flow due to payment schedules, and sell of any stagnant assets. like unused equipment, to release small capital and reduce equipment maintenence costs.
  
