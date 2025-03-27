@@ -5,7 +5,7 @@
 4) What is the ROE?
 5) What is the overall Gross margin?
 6) What is the Quick Ratio?
-7) What is the ratio of revenue to marketing cost in each country?
+7) What is the ratio of revenue to marketing cost?
 8) Which country has the highest Operating Costs?
 9) Determine the Cash Turnover Days and Inventory Turnover Days
     
