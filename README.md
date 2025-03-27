@@ -1,4 +1,4 @@
-#KPI Questions:
+KPI Questions:
 ##
 1) Which country makes the highest sales?
 2) In which country are the sales figures declining?
@@ -9,14 +9,14 @@
 7) What is the ratio of revenue to marketing cost?
 8) Which country has the highest Operating Costs?
 
-#Process:
+Process:
 ##
 1) Verify Data for missing values and anomalies. Sort out the same.
 2) Make sure data is consistent and clean with respect to data type, format and values
 3) Created Pivot tables according to questions asked
 4) merge all pivot tables into one dashboard and appli slicer for dynamic interactions
 
-#Project Insight:
+Project Insight:
 ##
 1) USA has the highest number of sales consistently over 3 years
 2) UK has witnessed the weakest revenue trend over 3 years
@@ -27,7 +27,7 @@
 7) New Zealand market has the highest Return on Equity.
 8) USA has the highest Operating Costs. 
 
-#Final Conclusion:
+Final Conclusion:
 ##
  1) For UK market, it is crucial to re-evaluate and optimize sales strategies by incorporating market research and analyzing competitors.
  2)  For USA market, it is imperative to implement Cost Control measures like remote working, advance payments for dicount procurement, outsourcing, automation and office space downsizing.
