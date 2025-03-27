@@ -1,6 +1,6 @@
 #KPI Questions:
-1) Which country makes highest sales?
-2) In which country are sales figures declining?
+1) Which country makes the highest sales?
+2) In which country are the sales figures declining?
 3) Which quarter in the year witnesses regular Sales decline?
 4) What is the ROE?
 5) What is the overall Gross margin?
