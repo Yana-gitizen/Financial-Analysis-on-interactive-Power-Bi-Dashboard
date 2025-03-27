@@ -15,14 +15,14 @@
 4) merge all pivot tables into one dashboard and appli slicer for dynamic interactions
 
 #Project Insight
-1) USA has highest number of sales consistently over 3 years
+1) USA has the highest number of sales consistently over 3 years
 2) UK has witnessed the weakest revenue trend over 3 years
-3) Febuary witnesses the lowest sales revenue in the entire time series
-4) While USA has the hghest Quick Ratio with maximum Cash and Steady Accounts receivables, Australia has lower Quick Ratio with higher liabilities and UK market owes more to Creditors/Suppliers as compared to revenues from Customers.
-5) November 2020 witnessed the highest sales with lowest Marketing Cost
-6) Gross Margin is 68%
-7) New Zealand market has the highest Return on Equity
-8)  USA has the highest Operating Costs
+3) Month of Febuary witnesses the lowest sales revenue in the entire time series
+4) Although USA has the highest quick Ratio with maximum Cash and Steady Accounts receivables, France has negative current liabilities and needs to monitor its accounts to ensure there is no overpayment towards  loan/credit. Australia has a lower Quick Ratio with higher liabilities. UK market is underutilizing its cash and creating unecessary debt. In conclusion a reliable accounting team is required in Australia, UK and France. 
+5) November 2020 witnessed the highest sales with lowest Marketing Cost.
+6) Average Gross Margin is 68%
+7) New Zealand market has the highest Return on Equity.
+8) USA has the highest Operating Costs. Imperative to implement cost control measures like Outsourcing, Automation, Downsizing Office space, Remote working etc.
 
 #Final Conclusion
  For UK market, it is crucial to reevaluate and optimize sales strategies by incorporating market research and analyzing competitors.
