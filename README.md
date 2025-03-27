@@ -9,12 +9,14 @@ KPI Questions:
 7) What is the ratio of revenue to marketing cost?
 8) Which country has the highest Operating Costs?
 
+
 Process:
 ##
 1) Verify Data for missing values and anomalies. Sort out the same.
 2) Make sure data is consistent and clean with respect to data type, format and values
 3) Created Pivot tables according to questions asked
 4) merge all pivot tables into one dashboard and appli slicer for dynamic interactions
+
 
 Project Insight:
 ##
@@ -26,6 +28,7 @@ Project Insight:
 6) Average Gross Margin is 68%
 7) New Zealand market has the highest Return on Equity.
 8) USA has the highest Operating Costs. 
+
 
 Final Conclusion:
 ##
