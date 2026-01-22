@@ -1,3 +1,4 @@
+<img width="893" height="510" alt="Image" src="https://github.com/user-attachments/assets/b925b31b-33c9-4870-990a-8a269503dc49" />
 KPI Questions:
 ##
 1) Which country makes the highest sales?
